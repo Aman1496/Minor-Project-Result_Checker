@@ -12,4 +12,4 @@ current emotion or mood is analyzed by the chatbot and it will generate the play
 - BACKEND : IBM Tone Analyzer , Last.fm : songs , Anvil
 - DATABASE : python,NLTK,Keras
 
-![Demo Video](https://drive.google.com/file/d/1TqtVNoj-IrQVWG7rWLoKGoye_eC0zZ4V/view?usp=drive_link)
+<img width="774" alt="Screenshot 2024-12-29 at 18 44 53" src="https://github.com/user-attachments/assets/94df12e1-4ba9-49bc-8165-7cb874da5a2a" />
