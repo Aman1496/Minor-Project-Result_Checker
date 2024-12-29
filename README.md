@@ -11,3 +11,5 @@ current emotion or mood is analyzed by the chatbot and it will generate the play
 - FRONT END :HTML, CSS, PHP, BOOTSTRAP
 - BACKEND : IBM Tone Analyzer , Last.fm : songs , Anvil
 - DATABASE : python,NLTK,Keras
+
+![alt text](https://drive.google.com/file/d/1TqtVNoj-IrQVWG7rWLoKGoye_eC0zZ4V/view?usp=drive_link)
